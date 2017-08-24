@@ -1,0 +1,23 @@
+{
+  "name": "ikalyze",
+  "version": "1.0.0",
+  "description": "イカ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n-inja/ikalyze"
+  },
+  "keywords": [
+    "splatoon2"
+  ],
+  "author": "ninja",
+  "license": "ISC",
+  "devDependencies": {
+    "google-spreadsheet": "^2.0.4",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  }
+}
